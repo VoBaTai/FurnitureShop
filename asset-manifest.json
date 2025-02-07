@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ProjectFruitShop/static/css/main.b30be24a.css",
-    "main.js": "/ProjectFruitShop/static/js/main.febb0741.js",
-    "static/js/453.a0c2ac2a.chunk.js": "/ProjectFruitShop/static/js/453.a0c2ac2a.chunk.js",
-    "index.html": "/ProjectFruitShop/index.html",
-    "main.b30be24a.css.map": "/ProjectFruitShop/static/css/main.b30be24a.css.map",
-    "main.febb0741.js.map": "/ProjectFruitShop/static/js/main.febb0741.js.map",
-    "453.a0c2ac2a.chunk.js.map": "/ProjectFruitShop/static/js/453.a0c2ac2a.chunk.js.map"
+    "main.css": "/FurnitureShop/static/css/main.b30be24a.css",
+    "main.js": "/FurnitureShop/static/js/main.eed9036f.js",
+    "static/js/453.a0c2ac2a.chunk.js": "/FurnitureShop/static/js/453.a0c2ac2a.chunk.js",
+    "index.html": "/FurnitureShop/index.html",
+    "main.b30be24a.css.map": "/FurnitureShop/static/css/main.b30be24a.css.map",
+    "main.eed9036f.js.map": "/FurnitureShop/static/js/main.eed9036f.js.map",
+    "453.a0c2ac2a.chunk.js.map": "/FurnitureShop/static/js/453.a0c2ac2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b30be24a.css",
-    "static/js/main.febb0741.js"
+    "static/js/main.eed9036f.js"
   ]
 }
