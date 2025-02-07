@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/FurnitureShop">
+    <BrowserRouter >
       <Routes>
         <Route path="/*" element={<User />} /> {/* Trang User */}
         <Route path="/admin/*" element={<AdminPage />} /> {/* Trang Admin */}
